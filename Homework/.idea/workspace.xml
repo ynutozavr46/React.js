@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42701b63-57b3-43d7-af57-70b6868be82a" name="Default Changelist" comment="Homework14.js">
+      <change afterPath="$PROJECT_DIR$/Homework-15.js/hm-15.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework-15.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-10.js/homework-10(3).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-10.js/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-12.js/hm12.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-12.js/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-13.js/screen-image-mercenary-49f166ed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-13.js/screen_a_mercenary_on_the_rise_en.0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework-13.js/Обложка_компьютерной_игры_Cyberpunk_2077.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework7.js/homework7.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework7.js/homework7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework9.js/homework9.js" beforeDir="false" afterPath="$PROJECT_DIR$/Homework9.js/homework9.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="hm-7.js" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="homework-7.html" />
+        <entry key="$PROJECT_DIR$" value="homework-15.js" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/homework-12.js/hm12.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Homework-8.js/homework8.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Homework-15.js/hm-15.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Homework9.js/homework9.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework-10.js/homework-10(3).js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework-14.js/hm-14.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework-10.js/homework-10.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Scratch/Scratch.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework11.js/hm11.js" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/homework-10.js/homework-10(2).js" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1jWOb6Ex7F47amyypp9gCje6aiA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../React/my-app" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hm-15.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Homework-15.js/hm-15.js" working-dir="$PROJECT_DIR$/Homework-15.js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.hm-15.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42701b63-57b3-43d7-af57-70b6868be82a" name="Default Changelist" comment="" />
+      <created>1603916451252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603916451252</updated>
+      <workItem from="1603916452924" duration="11693000" />
+      <workItem from="1603928617148" duration="2660000" />
+      <workItem from="1603978254511" duration="674000" />
+      <workItem from="1603978936255" duration="11859000" />
+      <workItem from="1604002524364" duration="5844000" />
+      <workItem from="1604057901553" duration="591000" />
+      <workItem from="1604059827625" duration="9171000" />
+      <workItem from="1604092833810" duration="3000" />
+      <workItem from="1604095192793" duration="4359000" />
+      <workItem from="1604137513000" duration="5206000" />
+      <workItem from="1604156759412" duration="6056000" />
+      <workItem from="1604167975656" duration="2943000" />
+      <workItem from="1604179418265" duration="3515000" />
+      <workItem from="1604185024246" duration="3000" />
+      <workItem from="1604188119829" duration="2000" />
+      <workItem from="1604223691501" duration="6953000" />
+      <workItem from="1604242500774" duration="4625000" />
+      <workItem from="1604250637135" duration="9841000" />
+      <workItem from="1604264965706" duration="3229000" />
+      <workItem from="1604325015127" duration="3217000" />
+      <workItem from="1604329477774" duration="11000" />
+      <workItem from="1604345035982" duration="5000" />
+      <workItem from="1604352951673" duration="1917000" />
+      <workItem from="1604358228506" duration="1996000" />
+      <workItem from="1604409116397" duration="13201000" />
+      <workItem from="1604426305586" duration="9113000" />
+      <workItem from="1604444443944" duration="55000" />
+      <workItem from="1604489103967" duration="3019000" />
+      <workItem from="1604492435984" duration="3248000" />
+      <workItem from="1604496295733" duration="2625000" />
+      <workItem from="1604522347729" duration="3229000" />
+      <workItem from="1604525774859" duration="3391000" />
+      <workItem from="1604532049354" duration="1000" />
+      <workItem from="1604533200516" duration="10000" />
+      <workItem from="1604583293890" duration="3595000" />
+      <workItem from="1604589068819" duration="1000" />
+      <workItem from="1604595179338" duration="7590000" />
+      <workItem from="1604616310487" duration="61000" />
+      <workItem from="1604685177982" duration="3000" />
+      <workItem from="1604685697475" duration="6452000" />
+      <workItem from="1604699416136" duration="2876000" />
+      <workItem from="1604748665312" duration="3261000" />
+      <workItem from="1604754775398" duration="658000" />
+      <workItem from="1604757369068" duration="385000" />
+      <workItem from="1604762240602" duration="591000" />
+      <workItem from="1604764164372" duration="1000" />
+      <workItem from="1604774616873" duration="4234000" />
+      <workItem from="1604781089027" duration="3009000" />
+      <workItem from="1604828820021" duration="3315000" />
+      <workItem from="1604858725814" duration="6401000" />
+      <workItem from="1604869226124" duration="4791000" />
+      <workItem from="1604913557937" duration="8605000" />
+      <workItem from="1604925097377" duration="1000" />
+      <workItem from="1604925776624" duration="1410000" />
+      <workItem from="1604929020335" duration="1982000" />
+      <workItem from="1604944650162" duration="7386000" />
+      <workItem from="1604955845080" duration="4958000" />
+      <workItem from="1605039958889" duration="4229000" />
+      <workItem from="1605091900303" duration="10802000" />
+      <workItem from="1605131621990" duration="4697000" />
+      <workItem from="1605190096891" duration="1543000" />
+      <workItem from="1605193302053" duration="1010000" />
+      <workItem from="1605216488286" duration="1580000" />
+      <workItem from="1605285281466" duration="3000" />
+      <workItem from="1605290383763" duration="2539000" />
+      <workItem from="1605299856678" duration="4847000" />
+      <workItem from="1605350006112" duration="3794000" />
+      <workItem from="1605356226793" duration="1533000" />
+      <workItem from="1605372313435" duration="266000" />
+      <workItem from="1605376843186" duration="8355000" />
+      <workItem from="1605447980058" duration="2000" />
+      <workItem from="1605460525561" duration="7384000" />
+      <workItem from="1605475844328" duration="3001000" />
+      <workItem from="1605525583625" duration="2842000" />
+      <workItem from="1605554232770" duration="18000" />
+      <workItem from="1605560228836" duration="9939000" />
+      <workItem from="1605597306060" duration="3217000" />
+      <workItem from="1605612188270" duration="1558000" />
+      <workItem from="1605619198373" duration="2000" />
+      <workItem from="1605624180738" duration="21000" />
+      <workItem from="1605632609299" duration="5731000" />
+      <workItem from="1605649773363" duration="4355000" />
+      <workItem from="1605723988147" duration="4370000" />
+      <workItem from="1605737491218" duration="3803000" />
+      <workItem from="1605821151658" duration="1233000" />
+      <workItem from="1605867996243" duration="1200000" />
+      <workItem from="1605877838109" duration="599000" />
+      <workItem from="1605888697398" duration="136000" />
+      <workItem from="1605895565805" duration="3084000" />
+      <workItem from="1605909848492" duration="2116000" />
+      <workItem from="1605946082767" duration="7133000" />
+      <workItem from="1605969678857" duration="1004000" />
+      <workItem from="1605989578470" duration="609000" />
+      <workItem from="1605994548934" duration="5000" />
+      <workItem from="1606038731456" duration="1027000" />
+      <workItem from="1606068018467" duration="1008000" />
+      <workItem from="1606071407027" duration="1127000" />
+      <workItem from="1606150869984" duration="6666000" />
+      <workItem from="1606162974478" duration="1490000" />
+      <workItem from="1606170690978" duration="2128000" />
+      <workItem from="1606251308570" duration="1000" />
+      <workItem from="1606299375938" duration="1698000" />
+      <workItem from="1606327974675" duration="1745000" />
+      <workItem from="1606333555460" duration="2532000" />
+      <workItem from="1606341150636" duration="2452000" />
+      <workItem from="1606408652568" duration="2869000" />
+      <workItem from="1606413513688" duration="82000" />
+      <workItem from="1606413982677" duration="2000" />
+      <workItem from="1606420097172" duration="2930000" />
+      <workItem from="1606473719688" duration="236000" />
+      <workItem from="1606474030785" duration="599000" />
+      <workItem from="1606477565159" duration="3005000" />
+      <workItem from="1606480593324" duration="290000" />
+      <workItem from="1606485018438" duration="599000" />
+      <workItem from="1606499196327" duration="1210000" />
+      <workItem from="1606501000702" duration="1796000" />
+      <workItem from="1606502805678" duration="399000" />
+      <workItem from="1606515297286" duration="1797000" />
+      <workItem from="1606517105148" duration="680000" />
+      <workItem from="1606571802469" duration="1000" />
+      <workItem from="1606577135513" duration="981000" />
+      <workItem from="1606578953886" duration="1032000" />
+      <workItem from="1606587478172" duration="1094000" />
+      <workItem from="1606588581275" duration="1000" />
+      <workItem from="1606599594982" duration="1000" />
+      <workItem from="1606601047114" duration="600000" />
+      <workItem from="1606602239182" duration="1797000" />
+      <workItem from="1606604048671" duration="357000" />
+      <workItem from="1606650096506" duration="1149000" />
+      <workItem from="1606659480436" duration="1796000" />
+      <workItem from="1606661285465" duration="1391000" />
+      <workItem from="1606666866661" duration="1338000" />
+      <workItem from="1606668671745" duration="1561000" />
+      <workItem from="1606670476118" duration="1057000" />
+      <workItem from="1606676078977" duration="1796000" />
+      <workItem from="1606677883564" duration="3138000" />
+      <workItem from="1606763637670" duration="2000" />
+      <workItem from="1606766866794" duration="1683000" />
+      <workItem from="1606772492136" duration="1609000" />
+      <workItem from="1606837127965" duration="949000" />
+      <workItem from="1606853888039" duration="692000" />
+      <workItem from="1606901584606" duration="599000" />
+      <workItem from="1606906835821" duration="1525000" />
+      <workItem from="1606908643402" duration="3452000" />
+      <workItem from="1606914889624" duration="833000" />
+      <workItem from="1606916699856" duration="750000" />
+      <workItem from="1606919266006" duration="165000" />
+    </task>
+    <task id="LOCAL-00001" summary="Homework7.js">
+      <created>1603929679460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603929679460</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Homework8.js">
+      <created>1604066203420</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604066203420</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework9.js">
+      <created>1604325808768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604325808768</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework10(2).js">
+      <created>1604444303600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604444303600</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Homework10.js">
+      <created>1604444349134</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604444349134</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework10(3).js">
+      <created>1605569904776</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605569904776</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework13.js">
+      <created>1606501238987</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606501238987</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework11.js">
+      <created>1606679072229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606679072229</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Homework14.js">
+      <created>1606837178650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606837178650</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Homework7.js" />
+    <MESSAGE value="Homework7.html" />
+    <MESSAGE value="Homework8.js" />
+    <MESSAGE value="Homework9.js" />
+    <MESSAGE value="Homework10(2).js" />
+    <MESSAGE value="Homework10.js" />
+    <MESSAGE value="Homework10(3).js" />
+    <MESSAGE value="Homework13.js" />
+    <MESSAGE value="Homework11.js" />
+    <MESSAGE value="Homework14.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework14.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606342733693">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606342733693" />
+    <state x="184" y="86" key="DiffContextDialog" timestamp="1603930413431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603930413431" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1606919428946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606919428946" />
+    <state x="784" y="422" key="Github.CreateGistDialog" timestamp="1603930537204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="784" y="422" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603930537204" />
+    <state x="836" y="418" key="Github.ShareDialog" timestamp="1603931267126">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603931267126" />
+    <state x="749" y="225" key="Github.UntrackedFilesDialog" timestamp="1603931281438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603931281438" />
+    <state x="540" y="263" key="IDE.errors.dialog" timestamp="1603930100317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="263" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603930100317" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604419073821">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604419073821" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1606837184069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1606837184069" />
+    <state x="0" y="0" width="1274" height="717" key="dock-window-1" timestamp="1603930455338">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1274" height="717" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603930455338" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605725848854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605725848854" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1603917546014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603917546014" />
+  </component>
+</project>
