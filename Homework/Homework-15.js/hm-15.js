@@ -8,79 +8,259 @@
 // 3) почистав зуби
 // і т.д.
 
-function startday(paste,cb){
-    console.log('Треба почистити зуби!')
-    setTimeout(()=>{
-        if (!paste){
-            cb('Закінчилась паста',null)
-            }else {
-            cb(null,'Done')
-        }
-    },500)
-}
-function eat(food,cb){
-    console.log('Make some food')
-    setTimeout(()=>{
-        if (!food){
-            cb('Go buy some food',null)
-        }else{
-            cb(null,'Done')
-        }
-    },1000)
+// function startday(paste){
+//     console.log('Треба почистити зуби!')
+//     setTimeout(()=>{
+//         if (!paste){
+//             console.log('Закінчилась паста')
+//             return
+//             }
+//             console.log('Done')
+//         }
+//     ,500)
+// }
+// startday(true)
+//
+//
+// function eat(food){
+//     setTimeout(()=>{
+//             console.log('Make some food')
+//         if (!food){
+//             console.log('Go buy some food')
+//             return
+//         }
+//             console.log('Done')
+//         }
+//     ,1000)
+// }
+// eat(false)
+//
+// function videos(youtube){
+//     setTimeout(()=>{
+//         console.log('Watch a few videos')
+//         if (!youtube){
+//             console.log('Ok watch tv')
+//             return
+//         }
+//             console.log('Done')
+//
+//     },1500)
+// }
+//
+// function work(js){
+//     setTimeout(()=>{
+//         console.log('Go work')
+//         if (!js){
+//             console.log('LOL not js what a problem?')
+//             return
+//         }
+//             console.log('Ok lets make some work!')
+//
+//     },2000)
+// }
+//
+// function relax(play){
+//     setTimeout(()=>{
+//         console.log('i need to relax')
+//         if (!play){
+//             console.log('Go to walk')
+//             return
+//         }
+//            console.log('Done')
+//     },2500)
+//     }
+//
+//     function watch(tutorials){
+//         setTimeout(()=>{
+//             console.log('i need to study')
+//             if (!tutorials){
+//                console.log('Ok again work...')
+//                 return
+//             }
+//                 console.log('Done')
+//
+//         },3000)
+//     }
+//
+//     function eatagain(food){
+//         setTimeout(()=>{
+//             console.log('i need to eat')
+//             if (!food){
+//                 console.log('Go to buy some food')
+//                 return
+//             }
+//                 console.log('Done')
+//
+//         },3500)
+//     }
+//
+//
+// videos(true)
+// work(true)
+// relax(false)
+// watch(true)
+// eatagain(false)
 
-}
 
-function videos(youtube,cb){
-    console.log('Watch a few videos')
-    setTimeout(()=>{
-        if (!youtube){
-            cb('Ok watch tv',null)
-        }else {
-            cb(null,'Done')
-        }
-    },1500)
-}
-
-function work(js,cb){
-    console.log('Go work')
-    setTimeout(()=>{
-        if (!js){
-            cb('LOL not js what problem?',null)
-        }else {
-            cb(null,'Ok lets make some work!')
-        }
-    },2000)
-}
-
-function relax(play,cb){
-    console.log('i need to relax')
-    setTimeout(()=>{
-        if (!play){
-            cb('Go to walk',null)
-        }else {
-            cb(null,'Done')
-        }
-    },2500)
-    }
-
-    function watch(tutorials,cb){
-        console.log('i need to study')
-        setTimeout(()=>{
-            if (!tutorials){
-                cb('Ok again work...',null)
-            }else {
-                cb(null,'Done')
+function startday(paste) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('Треба почистити зуби!')
+            if (!paste) {
+                reject('Закінчилась паста!')
+            } else {
+                resolve('Done!')
             }
-        },3000)
-    }
+        }, 500)
+    })
+}
 
-    function eatagain(food,cb){
-        console.log('i need to eat')
-        setTimeout(()=>{
-            if (!food){
-                cb('Go to buy some food',null)
-            }else {
-                cb(null,'Done')
+function eat(food) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('Make some food')
+            if (!food) {
+                reject('Go buy some food')
+            } else {
+                resolve('Done')
             }
-        },3500)
-    }
+        }, 1000)
+    })
+
+}
+
+
+function videos(youtube) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('Watch a few videos')
+            if (!youtube) {
+                reject('Ok watch tv')
+            } else {
+                resolve('Done')
+            }
+        }, 1500)
+    })
+}
+
+
+function work(js) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('Go work')
+            if (!js) {
+                reject('LOL not js what problem?')
+            } else {
+                resolve('Ok lets make some work!')
+            }
+        }, 2000)
+    })
+}
+
+
+function relax(play) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('i need to relax')
+            if (!play) {
+                reject('Go to walk')
+            } else {
+                resolve('Done')
+            }
+        }, 2500)
+    })
+}
+
+
+function watch(tutorials) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('i need to study')
+            if (!tutorials) {
+                reject('Ok again work...')
+            } else {
+                resolve('Done')
+            }
+        }, 3000)
+    })
+}
+
+
+function eatagain(food) {
+    return new Promise((resolve, reject) => {
+        setTimeout(() => {
+            console.log('i need to eat')
+            if (!food) {
+                reject('Go  buy some food')
+            } else {
+                resolve('Done')
+            }
+        }, 3500)
+    })
+}
+
+//
+//
+// startday(true).then(
+//     result=>console.log("Fulfilled " + result),
+//     eror=>console.log("Rejected "+eror)
+// )
+//
+// eat(false).then(
+//     result=>console.log("Fulfilled "+result),
+//     eror=>console.log("Rejected "+eror)
+// )
+//
+// videos(true).then(
+//     result=>console.log("Fulfilled "+result),
+//     eror=>console.log("Rejected "+eror)
+// )
+//
+// work(false).then(
+//     result=>console.log("Fulfilled "+result),
+//     eror=>console.log("Rejected "+eror)
+// )
+//
+// relax(false).then(
+//     result=>console.log("Fulfilled "+result),
+//     eror=>console.log("Rejected "+eror)
+// )
+//
+// watch(true).then(
+//     result=>console.log("Fulfilled "+result),
+//     eror=>console.log("Rejected "+eror)
+// )
+//
+// eatagain(false).then(
+//     result=>console.log("Fulfilled "+result),
+//     eror=>console.log("Rejected "+eror)
+// ).catch(eror=>{
+//     console.log(eror)
+// // })
+
+// Promise.allSettled([startday(true), eat(false), videos(true), work(false), relax(false), watch(true), eatagain(false)])
+//     .then(value =>
+//         console.log(value)
+//     )
+
+// async function result(){
+//     try {
+//         let start = await startday(true)
+//         console.log(start)
+//         let eat = await eat(false)
+//         console.log(eat)
+//         let videos = await videos(true)
+//         console.log(videos)
+//         let work = await work(false)
+//         console.log(work)
+//         let relax = await relax(false)
+//         console.log(relax)
+//         let watch = await watch(true)
+//         console.log(watch)
+//         let eatagain = await eatagain(false)
+//         console.log(eatagain)
+//     }catch (reason){
+// console.log(reason)
+//     }
+// }
+// result()
